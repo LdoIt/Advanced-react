@@ -36,3 +36,11 @@ class Parent extends PureComponent {
     )
   }
 }
+
+class Son extends Component {
+  render() {
+    return (
+      <h5>son...</h5>
+    )
+  }
+}
